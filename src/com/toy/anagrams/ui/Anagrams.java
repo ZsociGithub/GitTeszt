@@ -3,7 +3,7 @@ JÓ VIDEÓ A NETBEANS - GIT-RŐL A NETBEANS OLDALAN: https://netbeans.org/kb/doc
 Using Git Support in NetBeans IDE: https://netbeans.org/kb/docs/ide/git.html
  */
 
-/* Anagram Game Application */
+//HARMADIK PUSHOLÁS
 
 package com.toy.anagrams.ui;
 
